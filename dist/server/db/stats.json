@@ -1,0 +1,22 @@
+[
+    {
+        "product": "Samsung S9",
+        "status": "change",
+        "data": "Thu Mar 18 2021 14:03:05"
+    },
+    {
+        "product": "Samsung S9",
+        "status": "change",
+        "data": "Thu Mar 18 2021 14:03:10"
+    },
+    {
+        "product": "Xiaomi Mi 6",
+        "status": "remove",
+        "data": "Thu Mar 18 2021 14:03:13"
+    },
+    {
+        "product": "Xiaomi Mi 10",
+        "status": "add",
+        "data": "Thu Mar 18 2021 14:03:19"
+    }
+]

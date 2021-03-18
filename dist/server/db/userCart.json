@@ -1,0 +1,30 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "quantity": 1,
+            "id_product": 1,
+            "product_name": "Samsung S9",
+            "price": 18000,
+            "img_catalog": "img/img_catalog/phone1.jpeg",
+            "img_cart": "img/img_cart/phone1.jpeg"
+        },
+        {
+            "quantity": 1,
+            "id_product": 3,
+            "product_name": "iPhone 11",
+            "price": 55000,
+            "img_catalog": "img/img_catalog/phone3.jpg",
+            "img_cart": "img/img_cart/phone3.jpg"
+        },
+        {
+            "quantity": 1,
+            "id_product": 5,
+            "product_name": "Xiaomi Mi 10",
+            "price": 13000,
+            "img_catalog": "img/img_catalog/phone5.jpg",
+            "img_cart": "img/img_cart/phone5.jpg"
+        }
+    ]
+}
